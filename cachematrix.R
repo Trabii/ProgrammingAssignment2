@@ -5,6 +5,11 @@
 
 ## Write a short comment describing this function
 
+
+## It is pretty similar to the given example, so basically,
+## instead of using the mean function, the solve function is used.
+
+
 makeCacheMatrix <- function(x = matrix()) {
 
   ## will be the cached matrix
